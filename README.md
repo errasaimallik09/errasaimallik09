@@ -1,16 +1,21 @@
-### Hi there, I'm SAI MALLIK[ESM-09][website] 👋
+### Hi there, I'm SAI MALLIK 👋
 
 ## I'm a student in UCEOU
 
 - After my inter i have decide to sit infront of computer
 - 🌱 I’m currently learner
-- 👯 I’m looking to collaborate with other content creators
 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="Esm09 | LinkedIn" width="22px" src="https://www.linkedin.com/in/sai-mallik-erra-3b9a93204/" />][linkedin]
-[<img align="left" alt="Esm09 | Instagram" width="22px" src="https://www.instagram.com/_.e_s_m._09/" />][instagram]
 
 <br />
 ---
 
-<img align="left" alt="Esm09 Git hub Stat's" width="22px" src="https://github-readme-stats.vercel.app/api?username=errasaimallik09&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ESM's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=errasaimallik09&show_icons=true&hide_border=true" />
+
+</details>
