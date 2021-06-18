@@ -6,7 +6,6 @@
 
 
 
-<img alt="heloo" width=100% height=100px src="https://dribbble.com/shots/3147608-We-are-actively-seeking-a-Angular-Node-JS-developer"/>
 
 
 
