@@ -2,7 +2,6 @@
 
 ## I'm a student in UCEOU
 
-- After my inter i have decide to sit infront of computer
 - 🌱 I’m currently learner
 
 
