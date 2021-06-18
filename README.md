@@ -1,6 +1,6 @@
 ### Hi there, I'm SAI MALLIK 👋
 
-## I'm a student in UCEOU
+## I'm  student in UCEOU
 
 - 🌱 I’m currently learner
 
